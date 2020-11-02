@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3af05109-ea9a-4ac9-a8a2-ab5a34ec87ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jQGOP6rRwHde2gqeLseKdCi5wQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af05109-ea9a-4ac9-a8a2-ab5a34ec87ca" name="Default Changelist" comment="" />
+      <created>1603728875002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603728875002</updated>
+      <workItem from="1603728876368" duration="5193000" />
+      <workItem from="1603792666385" duration="4397000" />
+      <workItem from="1603893800674" duration="1465000" />
+      <workItem from="1603900245354" duration="920000" />
+      <workItem from="1603905035761" duration="1815000" />
+      <workItem from="1603981430807" duration="2339000" />
+      <workItem from="1604066393705" duration="14037000" />
+      <workItem from="1604083249272" duration="4999000" />
+      <workItem from="1604151751137" duration="234000" />
+      <workItem from="1604154294461" duration="726000" />
+      <workItem from="1604167371647" duration="2957000" />
+      <workItem from="1604170695762" duration="2733000" />
+      <workItem from="1604226837890" duration="7946000" />
+      <workItem from="1604322687035" duration="9695000" />
+      <workItem from="1604335631671" duration="122000" />
+      <workItem from="1604335771427" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="153" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603732527070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="153" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603732527070" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604335753468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604335753468" />
+    <state x="559" y="265" width="798" height="309" key="Github.ShareDialog" timestamp="1604335814197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="559" y="265" width="798" height="309" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604335814197" />
+    <state x="508" y="0" key="Github.UntrackedFilesDialog" timestamp="1604335827357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="0" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604335827357" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1604335695599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604335695599" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1604077340823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1604077340823" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1603731175020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603731175020" />
+    <state x="405" y="268" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604335840066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="268" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1604335840066" />
+  </component>
+</project>
